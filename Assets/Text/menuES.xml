@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <text>
+	Aventura
+    </text>
+	<text>
+	Continuar
+    </text>
+    <text>
+    Opciones
+    </text>
+	<text>
+	Cargando...
+	</text>
+</config>

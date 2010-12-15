@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<animations>
+	<properties>
+        <PositionX value="4"/>
+        <PositionY value="5"/>
+        <Width value="40"/>
+        <Height value="50"/>
+        <Speed value="1.5f"/>
+        <ImageWidth value="512"/>
+        <ImageHeight value="512"/>
+        <Energy value="100"/>
+	
+	<animation name="MoveLeft" frame="128, 129, 130, 131, 132, 133, 134, 135" speed="4"/>
+    <animation name="MoveRight" frame="128, 129, 130, 131, 132, 133, 134, 135" speed="4"/>
+    <animation name="MoveUp" frame="112, 113, 114, 115, 116, 117, 118, 119" speed="4"/>
+    <animation name="MoveDown" frame="96, 97, 98, 99, 100, 101, 102, 103" speed="4"/>
+    <animation name="Stopped" frame="128" speed="4"/>
+    <animation name="Attack" frame="128, 129" speed="4"/>
+    <animation name="Dead" frame="128, 129" speed="4"/>
+    <animation name="Dying" frame="130, 131" speed="4"/>
+    <animation name="Spawnning" frame="130" speed="4"/>
+
+</animations>

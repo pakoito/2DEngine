@@ -1,0 +1,2 @@
+#define END_ANIMATION -1
+#define MAX_FRAME_ANIMATION 60
